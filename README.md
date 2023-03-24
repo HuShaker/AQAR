@@ -115,50 +115,51 @@ h.	Owner Phone
 ![image](https://user-images.githubusercontent.com/97202574/227570804-97597e03-32ce-4ec3-91fd-c562a117592c.png)
 
 As for organizing the project flow, diagrams were prepared to show needed information about the project: 
-
-<h4>Functional dependencies diagram [FD]</h4>
+<br>
+<br>
+<h3>Functional dependencies diagram [FD]</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227571747-d5e972b1-94e8-491b-9701-b90bdf3650cf.png)
 
-<h4>-	Data flow diagram [DFD]</h4>
+<h3>-	Data flow diagram [DFD]</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227571875-77f542c2-ac82-40c1-a862-85c40323c660.png)
 
-<h4>-	Context Diagram</h4>
+<h3>-	Context Diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572122-2b0ff191-0e54-460c-8293-da333a5c2a1a.png)
 
-<h4>-	Gantt diagram</h4>
+<h3>-	Gantt diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572259-8a9fbdcb-1892-4076-90b9-5080d487ba86.png)
 
-<h4>-	Pert diagram</h4>
+<h3>-	Pert diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572350-25804d36-da9a-40e7-b9c3-abd4fa20e13e.png)
 
 ![image](https://user-images.githubusercontent.com/97202574/227572426-4cb7e71f-8181-44fb-98e4-c224548be849.png)
 
-<h4>-	Use case diagram</h4>
+<h3>-	Use case diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572607-9b70aa75-ce3d-47e1-9faa-570c7ca07b41.png)
 
-<h4>-	Activity diagram</h4>
+<h3>-	Activity diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572637-cad85d5d-200d-4f34-889b-e480110fae60.png)
 
-<h4>-	Sequence diagram</h4>
+<h3>-	Sequence diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572868-28b39d1a-8946-4b48-8b04-c42005edfd41.png)
 
-<h4>-	Class diagram</h4>
+<h3>-	Class diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572896-7bea71e6-11f4-41ac-8dfe-d185deb8f2a3.png)
 
-<h4>-	Entity Relationship Diagram [ERD]</h4>
+<h3>-	Entity Relationship Diagram [ERD]</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227573163-4aa892d2-1791-4833-b76a-b7946a281424.png)
 
-<h4>-	Schema diagram</h4>
+<h3>-	Schema diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227573208-165318fb-4e60-4bb0-8388-756002056518.png)
 
