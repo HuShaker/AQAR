@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="AQAR.Admin_Pages.Admin" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>AQAR</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="icon" type="image/x-icon" href="../Images/favicon.png"/>
+<link rel="stylesheet" href="..\Template\Style.css"/>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+
+<!-- Sidebar -->
+<div class="Sidebar" style="width:20%">
+  <center>
+	<img src="..\Template\img\Person_icon.png" alt="Profile_Pic" style="width:60%;padding-top:30px;"/>
+    <div>
+    
+        <asp:Label ID="Label1" runat="server" Text="Welcome"></asp:Label>
+    
+    </div>
+  
+  <a href="Admin_AQAR.aspx" class="Sidebar_Item" style="margin-top: 45px;">Show AQARs</a>
+  <a href="Admin_Reg_AQAR.aspx" class="Sidebar_Item">Register AQAR</a>
+  <a href="Admin_Register.aspx" class="Sidebar_Item">Register Account</a>
+  <a href="Admin_Users.aspx" class="Sidebar_Item">Show Users</a>
+  <a href="Admin_Security.aspx" class="Sidebar_Item">Security</a>
+  <a href="../Login.aspx" class="Sidebar_Item">Logout</a>
+  </center>
+</div>
+
+<!-- Page Content -->
+<div class="Content_Holder" style="margin-left:20%;width:80%;">
+
+	<div class="Name_Header">
+    <div>
+    
+		<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    
+    </div>
+	</div>
+	<div class="Content">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        </asp:ContentPlaceHolder>
+	</div>
+</div>
+      
+    </form>
+      
+</body>
+</html>
+

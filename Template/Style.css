@@ -1,0 +1,331 @@
+html,body{
+	margin: 0;
+    padding: 0;
+	font-family:Arial;
+	}
+
+body
+{
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    }
+
+.Name_Header{
+	background-color:#046B99;
+	color:#F1F1F1;
+	padding-left:15px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-weight:bold;
+	font-size:35px;
+	}
+
+.Content
+{
+    margin-left: 6%;
+    margin-top: 4%;
+    background-color: #ffffffe6;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 110px;
+    width: 45%;
+    }
+    
+.Sidebar{
+	height:100%;
+	background-color:#212121;
+	position:fixed;
+	overflow:hidden;
+	color:#F1F1F1;
+	padding-bottom: 100px;
+	}
+
+.Sidebar_Item{
+	margin-left:0;
+	width:88%;
+	padding:16px 16px;
+	display:block;
+	text-decoration:none;
+	color:#F1F1F1;
+	
+	}
+
+.Sidebar_Item:hover{
+	color:#212121;
+	background-color:#AEB0B5;
+	}
+
+.textbox_internal{
+          background: #D6D7D9;
+          color:#323A45;
+          width: 50%;
+          border: 0;
+          padding: 15px;
+          font-size: 14px;
+    }
+
+.login {
+  width: 360px;
+  padding: 8% 0 0;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin-top:10%;
+  padding: 45px;
+  text-align: center;
+}
+
+.Register {
+  width: 360px;
+  padding: 8% 0 0;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin-top:1%;
+  padding: 45px;
+  text-align: center;
+}
+
+.TextBox {
+  background: #D6D7D9;
+  color:#323A45;
+  width: 100%;
+  border: 0;
+  margin: 15px 0 1px;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.TextBox:focus {
+  background: #AEB0B5;
+}
+
+.TextBox_Register{
+    background: #D6D7D9;
+    color: #323A45;
+    width: 80%;
+    border: 0;
+    padding: 15px;
+    font-size: 14px;
+}
+
+.TextBox_Register:focus {
+  background: #AEB0B5;
+}
+
+.DropDown_Register{
+    background: #D6D7D9;
+    color: #323A45;
+    width: 42.75%;
+    border: 0;
+    padding: 15px;
+	margin-left: 3px;
+    margin-top: -3px;
+    font-size: 14px;
+}
+
+
+.TextBox_Security {
+  background: #D6D7D9;
+  color:#323A45;
+  width: 70%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.TextBox_Security:focus {
+  background: #AEB0B5;
+}
+
+.TextBox_AQAR {
+  background: #D6D7D9;
+  color:#323A45;
+  width: 91%;
+  border: 0;
+  margin: 1px 0 1px;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.TextBox_AQAR:focus {
+  background: #AEB0B5;
+}
+
+
+.Button {
+    background: #205493;
+    border:none;
+    width: 100%;
+    padding: 15px;
+    font-size: 14px;
+    color:#fff;
+    font-weight:bold;
+}
+.Button:Hover 
+{
+    background:#6094D3;
+    }
+
+.Button_Security {
+    background: #205493;
+    border: none;
+    width: 30%;
+    margin-left: 27%;
+    padding: 15px;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+}
+.Button_Security:Hover 
+{
+    background:#6094D3;
+    }
+	
+.Button_Register {
+    background: #205493;
+    border: none;
+    width: 35%;
+    margin-left: 13.25%;
+    padding: 15px;
+    margin-top: 10px;
+	margin-left: 3px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+}
+.Button_Register:Hover 
+{
+    background:#6094D3;
+    }
+
+
+.Show_Users_Button {
+    background: #205493;
+    border: none;
+    width: 45%;
+    padding: 15px;
+    margin-top: 10px;
+	margin-left: 3px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.Show_Users_Button:Hover 
+{
+    background:#6094D3;
+    }
+
+.Show_Users_TextBox {
+  background: #D6D7D9;
+  color:#323A45;
+  width: 85%;
+  border: 0;
+  margin-top: 10px;
+  margin-left: 3px;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.Show_Users_TextBox:focus {
+  background: #AEB0B5;
+}
+
+/************** DATA GRID VIEW *******************/
+
+.AQAR_GridView{
+	margin-left:-4%;
+	margin-top:-4%;
+	background-color:#ffffff9c;
+}
+
+.AQAR_GridView th{
+	background-color: #046b99;
+    color: #f1f1f1;
+    text-align: center;
+    padding:5px;
+    font-size:12px;
+    width:100px;
+}
+
+.AQAR_GridView th a{
+	Text-decoration:none;
+	background-color:#046b99;
+	color: #f1f1f1;
+	padding: 2px;
+}
+
+.AQAR_GridView td{
+    text-align: center;
+    padding:5px;
+    font-size:12px;
+
+}
+
+.AQAR_GridView td a{
+	Text-decoration:none;
+	background-color:#212121;
+	color: #f1f1f1;
+	padding: 4px;
+	width:20px;
+	border-radius:3px;
+}
+
+.AQAR_GridView td a:hover{
+	background-color:#646464;
+}
+
+.AQAR_GridView input{
+	width:80px;
+}
+
+.Users_GridView{
+	background-color:#ffffff9c;
+	margin-top: 10px;
+	margin-left: 3px;
+	margin-bottom:15px;
+}
+
+.Users_GridView th{
+	background-color: #046b99;
+    color: #f1f1f1;
+    text-align: center;
+    padding:5px;
+    font-size:12px;
+    width:100px;
+}
+
+.Users_GridView th a{
+	Text-decoration:none;
+	background-color:#046b99;
+	color: #f1f1f1;
+	padding: 2px;
+}
+
+.Users_GridView td{
+    text-align: center;
+    padding:5px;
+    font-size:12px;
+}
+
+.Users_GridView td a{
+	Text-decoration:none;
+	background-color:#212121;
+	color: #f1f1f1;
+	padding: 4px;
+	width:20px;
+	border-radius:3px;
+}
+
+.Users_GridView td a:hover{
+	background-color:#646464;
+}
+
+.Users_GridView input{
+	width:95px;
+}

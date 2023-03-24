@@ -1,0 +1,5 @@
+C:\Users\Hussein Abdullah\Desktop\AQAR\AQAR\AQAR\bin\AQAR.dll
+C:\Users\Hussein Abdullah\Desktop\AQAR\AQAR\AQAR\bin\AQAR.pdb
+C:\Users\Hussein Abdullah\Desktop\AQAR\AQAR\AQAR\obj\Debug\AQAR.dll
+C:\Users\Hussein Abdullah\Desktop\AQAR\AQAR\AQAR\obj\Debug\AQAR.pdb
+C:\Users\Hussein Abdullah\Desktop\AQAR\AQAR\AQAR\obj\Debug\AQAR.csprojResolveAssemblyReference.cache
