@@ -120,49 +120,49 @@ As for organizing the project flow, diagrams were prepared to show needed inform
 <h3>Functional dependencies diagram [FD]</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227571747-d5e972b1-94e8-491b-9701-b90bdf3650cf.png)
-
-<h3>-	Data flow diagram [DFD]</h3>
+<br>
+<h3>Data flow diagram [DFD]</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227571875-77f542c2-ac82-40c1-a862-85c40323c660.png)
-
-<h3>-	Context Diagram</h3>
+<br>
+<h3>Context Diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572122-2b0ff191-0e54-460c-8293-da333a5c2a1a.png)
-
-<h3>-	Gantt diagram</h3>
+<br>
+<h3>Gantt diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572259-8a9fbdcb-1892-4076-90b9-5080d487ba86.png)
-
-<h3>-	Pert diagram</h3>
+<br>
+<h3>Pert diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572350-25804d36-da9a-40e7-b9c3-abd4fa20e13e.png)
 
 ![image](https://user-images.githubusercontent.com/97202574/227572426-4cb7e71f-8181-44fb-98e4-c224548be849.png)
-
-<h3>-	Use case diagram</h3>
+<br>
+<h3>Use case diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572607-9b70aa75-ce3d-47e1-9faa-570c7ca07b41.png)
-
-<h3>-	Activity diagram</h3>
+<br>
+<h3>Activity diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572637-cad85d5d-200d-4f34-889b-e480110fae60.png)
-
-<h3>-	Sequence diagram</h3>
+<br>
+<h3>Sequence diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572868-28b39d1a-8946-4b48-8b04-c42005edfd41.png)
-
-<h3>-	Class diagram</h3>
+<br>
+<h3>Class diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227572896-7bea71e6-11f4-41ac-8dfe-d185deb8f2a3.png)
-
-<h3>-	Entity Relationship Diagram [ERD]</h3>
+<br>
+<h3>Entity Relationship Diagram [ERD]</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227573163-4aa892d2-1791-4833-b76a-b7946a281424.png)
-
-<h3>-	Schema diagram</h3>
+<br>
+<h3>Schema diagram</h3>
 
 ![image](https://user-images.githubusercontent.com/97202574/227573208-165318fb-4e60-4bb0-8388-756002056518.png)
-
+<br>
 <h2>Conclusion and future work</h2>
 
 The project achieved its main purpose that is helping Real Estate Company with managing their users’ data and helping them with their available real estate database with a friendly and easy to use interface with taking in consideration preventing unauthorized from changing any data or even achieve the data on the website without going through login process.
